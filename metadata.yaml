@@ -1,11 +1,16 @@
 _repo: HMI-Some-Passages-in-the-Life-of-One-of-HM-Inspectors-of-Schools_67987
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67987-h/images/cover.jpg
 creator:
   author:
     agent_name: Sneyd-Kynnersley, E. M.
     gutenberg_agent_id: '54564'
     url: http://www.gutenberg.org/2009/agents/54564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67987#HMI-Some-Passages-in-the-Life-of-One-of-HM-Inspectors-of-Schools
 gutenberg_issued: '2022-05-04'
 identifiers:
   gutenberg: '67987'
